@@ -11,6 +11,4 @@ router.post('/subtract',calculatorController.subtract);
 
 router.post('/multiply',calculatorController.multiply);
 
-router.post('/divide',calculatorController.divide);
-
 module.exports = router;
